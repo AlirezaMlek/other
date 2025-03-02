@@ -5,9 +5,8 @@ author: Alireza Maleki
 
 # Mica Market (میکا)
 
-<img src="./میکا.gif" width="400" alt="Mica banner"/> <img src="https://drive.google.com/file/d/1XjC-Ruau4hbfr2OG68IKKeRSrgd7dmCe/view?usp=share_link" width="400" alt="Mica banner"/>
+<img src="./میکا.gif" width="400" alt="Mica banner"/> <img src="./mica-banner.gif" width="400" alt="Mica banner"/>
 
-![My GIF](https://drive.google.com/uc?export=view&id=1XjC-Ruau4hbfr2OG68IKKeRSrgd7dmCe)
 
 Mica is a brand new, highly intractive online market for jewelry. We will lauch the website this month, and domain "mica-market.com" is reserved.
 
